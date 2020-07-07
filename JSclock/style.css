@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(to bottom right, pink, lightblue,orange, red);
+}
+p {
+   text-align: center;
+   font-family: 'Cedarville Cursive', cursive;
+   position: relative;
+   top: 45vw;
+   font-size: 5vw;
+}
+#clock {
+    font-family: 'Orbitron', sans-serif;
+    width: 50vw;
+    padding: 10vw 10vw;
+    margin: 50% auto;
+    background-color: lightgray;
+    border-radius: 5vh;
+    border: solid 1vh brown;
+    box-shadow: 0 0 20vh black;
+}
+#time{
+    font-size: 10vw;
+    color: #444444;
+}
+#day-month-year{
+    font-size: 3vh;
+    text-align: center;
+}
